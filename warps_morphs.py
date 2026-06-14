@@ -1,9 +1,9 @@
 import cv2
 import numpy as np
 
-IMAGE_PATH_WARP = "C:\\Users\\palla\\OneDrive\\Pictures\\Screenshots\\xyz.png"
-IMAGE_PATH_SOURCE = "C:\\Users\\palla\\Downloads\\kid.jpeg"
-IMAGE_PATH_DESTINATION = "C:\\Users\\palla\\Downloads\\images (1).jpg"
+IMAGE_PATH_WARP = "C:\\Users\\palla\\OneDrive\\Pictures\\Screenshots\\men.jpeg"
+IMAGE_PATH_SOURCE = "C:\\Users\\palla\\Downloads\\kid.jpg"
+IMAGE_PATH_DESTINATION = "C:\\Users\\palla\\Downloads\\women.jpg"
 
 # ==================== PART 1: LINEAR ALGEBRA WARP ====================
 
